@@ -1,33 +1,34 @@
 {
   "project_info": {
-    "project_number": "1003546890661",
-    "project_id": "ambica-9ac64",
-    "storage_bucket": "ambica-9ac64.appspot.com"
+    "project_number": "333762077983",
+    "firebase_url": "https://ambica-d73fb-default-rtdb.firebaseio.com",
+    "project_id": "ambica-d73fb",
+    "storage_bucket": "ambica-d73fb.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1003546890661:android:e5ca1e0dd2b7305db4984c",
+        "mobilesdk_app_id": "1:333762077983:android:7694f42edb5d109e497c2a",
         "android_client_info": {
           "package_name": "com.example.untitled7"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1003546890661-gjeot7vh20jkv0fs4m4poigmrdo9btor.apps.googleusercontent.com",
+          "client_id": "333762077983-v73csmn2m7i38fc60vtvdhv8b50pbc3b.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDRtgSNpCERwcyF1_1LHZtOSq1iOrh6tDM"
+          "current_key": "AIzaSyCbyYmiA-FX_9Nf5rA6l1M9H4Pr8gREMHw"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1003546890661-gjeot7vh20jkv0fs4m4poigmrdo9btor.apps.googleusercontent.com",
+              "client_id": "333762077983-v73csmn2m7i38fc60vtvdhv8b50pbc3b.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
