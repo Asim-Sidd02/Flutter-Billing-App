@@ -4,6 +4,7 @@ import 'package:ambica/pages/home.dart';
 import 'package:ambica/utils/color_utils.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/splash.dart';
 import 'dart:async';
 import 'package:get/get.dart';
 import 'package:ambica/screens/signup_screen.dart';
@@ -61,7 +62,7 @@ class _SignInScreenState extends State<SignInScreen> {
                           password: _passwordTextController.text)
                       .then((value) {
                     Navigator.push(context,
-                        MaterialPageRoute(builder: (context) => MyHomePage()));
+                        MaterialPageRoute(builder: (context) => const Homepage()));
                   }).onError((error, stackTrace) {
                     print("Error ${error.toString()}");
                   });
